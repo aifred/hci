@@ -1,0 +1,55 @@
+Menu Type,Menu Depth,Menu Breadth,Target Item
+Marking,1,4,Clothing
+Marking,1,4,Food
+Marking,1,4,Animals
+Marking,2,4,Clothing -> Hats
+Marking,2,4,Continents -> Asia
+Marking,2,4,Food -> Meat
+Marking,3,4,Clothing -> Bottoms -> Jeans
+Marking,3,4,Continent -> Asia -> Singapore
+Marking,3,4,Food -> Meat -> Bacon
+Marking,1,6,Clothing
+Marking,1,6,Books
+Marking,1,6,Transport
+Marking,2,6,Books -> Mystery
+Marking,2,6,Transport -> Car
+Marking,2,6,Clothing -> Hats
+Marking,3,6,Transport -> Car -> Toyota
+Marking,3,6,Clothing -> Hats -> Beret
+Marking,3,6,Books -> Mystery -> The Dark Lake
+Marking,1,8,Clothing
+Marking,1,8,Songs
+Marking,1,8,Movie
+Marking,2,8,Clothing -> Hats
+Marking,2,8,Songs -> Blues
+Marking,2,8,Movie -> Adventure
+Marking,3,8,Clothing -> Hats -> Beanie
+Marking,3,8,Songs -> Blues -> One Love
+Marking,3,8,Movie -> Adventure -> Star Trek
+Radial,1,4,Clothing
+Radial,1,4,Food
+Radial,1,4,Animals
+Radial,2,4,Clothing -> Hats
+Radial,2,4,Continents -> Asia
+Radial,2,4,Food -> Meat
+Radial,3,4,Clothing -> Bottoms -> Jeans
+Radial,3,4,Continent -> Asia -> Singapore
+Radial,3,4,Food -> Meat -> Bacon
+Radial,1,6,Clothing
+Radial,1,6,Books
+Radial,1,6,Transport
+Radial,2,6,Books -> Mystery
+Radial,2,6,Transport -> Car
+Radial,2,6,Clothing -> Hats
+Radial,3,6,Transport -> Car -> Toyota
+Radial,3,6,Clothing -> Hats -> Beret
+Radial,3,6,Books -> Mystery -> The Dark Lake
+Radial,1,8,Clothing
+Radial,1,8,Songs
+Radial,1,8,Movie
+Radial,2,8,Clothing -> Hats
+Radial,2,8,Songs -> Blues
+Radial,2,8,Movie -> Adventure
+Radial,3,8,Clothing -> Hats -> Beanie
+Radial,3,8,Songs -> Blues -> One Love
+Radial,3,8,Movie -> Adventure -> Star Trek

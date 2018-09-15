@@ -1,0 +1,11 @@
+
+kjavascript:S2814Ø"GRename "items" as this name is already used in declaration at line 334.(¬ÆÁÉ8îÒÙ,
+gjavascript:S2814×"CRename "i" as this name is already used in declaration at line 333.(Àê8ÅæèíÛ,
+Ijavascript:S1442©" Remove this usage of alert(...).(ª¶ƒ­ûÿÿÿÿ8åÒ¸îÛ,
+_javascript:S1854C"<Remove this useless assignment to local variable "formError"(ß¬óº8”¦şÀÛ,
+Djavascript:S1442£" Remove this usage of alert(...).(² ó8åÒ¸îÛ,
+hjavascript:S2814Ù"DRename "id" as this name is already used in declaration at line 335.(ñÑ™“8îÒÙ,
+fjavascript:UnusedVariableC":Remove the declaration of the unused 'formError' variable.(ß¬óº8”¦şÀÛ,
+kjavascript:S2814ù"GRename "items" as this name is already used in declaration at line 493.(¬ÆÁÉ8îÒÙ,
+hjavascript:S2814ú"DRename "id" as this name is already used in declaration at line 494.(ñÑ™“8îÒÙ,
+gjavascript:S2814ø"CRename "i" as this name is already used in declaration at line 492.(Àê8ÅæèíÛ,
